@@ -88,7 +88,7 @@ The dataset contains:
 ---
 
 ## 📸 Dashboard Preview
-![Pizza Sales Dashboard](dashboard-image.png)
+![Pizza Sales Dashboard]([dashboard-image.png](https://github.com/TinaRufai/pizza-sales-analysis/blob/main/Screenshot%202026-05-21%20133528.png))
 
 
 ---
